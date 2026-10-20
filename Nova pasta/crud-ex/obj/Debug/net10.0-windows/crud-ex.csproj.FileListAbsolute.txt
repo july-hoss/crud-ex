@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\bin\Debug\net10.0-windows\crud-ex.exe
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\bin\Debug\net10.0-windows\crud-ex.deps.json
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\bin\Debug\net10.0-windows\crud-ex.runtimeconfig.json
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\bin\Debug\net10.0-windows\crud-ex.dll
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\bin\Debug\net10.0-windows\crud-ex.pdb
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud_ex.Form1.resources
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.dll
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\refint\crud-ex.dll
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.pdb
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\ref\crud-ex.dll
+C:\Users\Aluno\source\repos\crud-ex\crud-ex\obj\Debug\net10.0-windows\crud-ex.csproj.Up2Date
